@@ -1,0 +1,5 @@
+	Os número nos nomes das pastas (e dos arquivos) representam o número da 
+atividade do Beecrowd. Ou seja, caso vc pesquise "Beecrowd" e o número da(o) 
+pasta/arquivo, aparecerá o exercício para o qual eu desenvolvi o código do arquivo.
+
+	Os códigos foram desenvolvidos no Codeblocks.
